@@ -1,9 +1,6 @@
 ---
-title: "About"
-# meta description
-description: "This is meta description"
-# save as draft
-draft: false
----
+title: About
+description: This is meta description
 
-You might be an artist who would like to introduce yourself and your work here or maybe you&rsquo;re a business with a mission to describe.
+---
+मेरो वेबसाईटमा पाल्नुभएकोमा हार्दिक धन्यवाद ! यस साईटमा प्रकाशित सम्पूर्ण लेख तथा साहित्य मेरा व्यक्तिगत हुन। तपाईहरुको सुझाव तथा प्रतिकृयाको आशा गर्दछु !
