@@ -1,18 +1,16 @@
 ---
-title: "Works and Days"
-date: 2020-03-14T15:40:24+06:00
-image : "images/2020-three-quarters-1.png"
-# author
-author : ["Admin"]
-# categories
-categories: ["Working days"]
-tags: ["work", "day"]
-# meta description
-description: "This is meta description"
-# save as draft
-draft: false
+title: सम्झनामा ति तिहार
+date: 2016-11-05T09:40:24+00:00
+image: images/2020-three-quarters-1.png
+author:
+- Bhuwan Upreti
+categories:
+- Tihar
+tags:
+- Tihar
+description: This is meta description
+
 ---
+“ह्या !कस्तो नमिठो ….यस्तो नि हुन्छ अनरसा!” म मुख बिगार्दै भन्थे र बहिनीले बनाको भन्ने थाहा हुदाहुदै फेरि अन्जानजस्तो बनेर प्रश्न गर्थे,”कल्ले बनाको यो?”…बहिनी रिसले मलाई घुेरेर हेरिरकी हुन्थी र मेरो कुरा सुनेर भुतभुताउन लाग्थि ,”मरि मरि गरेर पकाईराछु,नमिठो भो रे !” उ एकछिन रोकिएर फेरि थप्थी ,’पछि…तेरै स्वास्नीले मिठो बनाएर ख्वाउचे होलि नि …”।..’ आज टिकाको दिन पनि किन झगडा गर्छन यिनिहरु…अनि दादालाई के भनेकी तैले चाही? दादासंग त्यही हो बोल्ने तरिका ?’.. ममिले झन गाली उसलाई नै थप्नुहुन्थ्यो अनि म पनि “तेईत ” भन्दै सहि लाउथे ममिको कुरामा ।उ अध्यारो हुन्थी र सुक्क सुक्क गरेर रुदै भन्थी,”लाईदिन्न म यस्तोलाई टिकासिका !”।एकछिन जिस्क्याकै भरमा उ रोईदिन्थी,मलाई पनि नरमाइलो लाग्थ्यो अनि भन्न मन लाग्थ्यो,´मलाई तिम्ले बनाको अनरसा मन नपरेको कहाँ हो र…तर त्यो भन्दा मिठो मलाई तिमिलाई जिस्क्याउनमा लाग्छ…तिमि रोएपछी फकाउनमा लाग्छ!” तर म उसको छेउमा जान्थे र त्यसो भन्नुको साट्टो ´नलाईदेन त रुन्ची…!” भन्दै उसको कपाल तानेर भागथे,उ मलाई बादर भन्दै लखेट्दै पछि आउथी,म पनि उसले भेट्नै गरि बिस्तारै भागेजस्तो गर्दिन्थे,उसले मलाई भेटेर रिस मर्नै गरि कपाल भुत्ल्याईदिन्थी।ममिले हामी दुवैलाई सम्बोधन गर्दै भन्नुहुन्थ्यो,”झगडा न गर त तिमीहरु अब,तयार भएर आओ टिका लाउन…”(मावलतिर टिको लाउन नहुने भएकाले त्यो तिहारको सबै चाजोपाजो आमले नै मिलाईदिनुभको थियो,बुवा भने यसपाली टिका लाउन फुपुको तिरै जानुभको थियो।)
 
-Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.
-
-Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.
+हामी रेडि भई टिका लाउन जान्थ्यौ।बहिनीले सप्तरङी टिका निधारमा लगाईदिन्थी,मनमनै के के जप्थी र दैलोमा ओखर फुटाउथी, तेलको घेरा बनाइ मलाई घुम्थी ।मलाई लाग्थ्यो उसले गर्ने माया उसलाई मैले सायदै गर्न सकुला।अघिको अनरसा फेरि म मिठो मान्दै खान्थे र उसलाई पनि खुवाईदिन्थे ।आज ५ बर्ष भएछ,उसको हातको टिको नलगाएको पनि,उसले बनाको अनरसा नखाएको पनि।आज उसलाई फोन गरे,धेरै कुरा भयो,फोन राख्ने बेलामा भने,’तैले पकाको त्यो अनरसा जस्तो मिठो अनरसा आजसम्म खाको छैन मैले।।।’ यती भनिसक्दा नसक्दा आँखा रसाईसकेका थिए। सानोमा अनरसा नमिठो भो भ्न्दा रोएकी उ आज त्यही अनरसा मिठो भो भन्दा फेरी रोई।लाग्यो फेरी किन रुवाए उसलाई!बिस्तारै बाई भोली कल गर्छु भनेर मैले फोन राखे।जिन्दगीले बेरङी भाग्य पोतिदियो निधारमा बहिनी,मन त तिम्रै हातको सप्तरङी टिका लगाउने नभाको कहाँ हो र ?
