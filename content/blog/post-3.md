@@ -1,18 +1,77 @@
 ---
-title: "The Life I Deserve"
-date: 2020-03-14T15:40:24+06:00
-image : "images/2020-three-quarters-2.png"
-# author
-author : ["Admin"]
-# categories
-categories: ["lifestyle"]
-tags: ["lifestyle" , "fashion"]
-# meta description
-description: "This is meta description"
-# save as draft
-draft: false
+title: 'बिदाई '
+date: 2020-03-14T09:40:24+00:00
+image: "/images/250871185_4328721103907577_6550135110699779563_n.jpg"
+author:
+- Admin
+categories:
+- lifestyle
+tags:
+- lifestyle
+- fashion
+description: This is meta description
+
 ---
+झिल्को मुहारमा तरल उतारी,
 
-Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.
+प्रेमिल भाषा नयनका मुकम खारी,
 
-Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.
+ओठले कोर्दै ती
+
+आकृति हृदयभरिको ,
+
+म गर्दैछु आफ्नै बिदाई ।
+
+बादलसँग बादल टुक्रिएर आकाशमा मिसिएझै,
+
+रङ्गहरुमा रङ्ग घुलेर ईन्द्रधनु बनेजस्तै,
+
+लोहित,पलाश भई नील,पीतसरि
+
+आफैंले आफुलाई छुट्याउन छोडेको दिन,
+
+म फेरि तिमीलाई कहिँ धुषर वर्णमा भेटौँला ।
+
+साना साना कुरामा,
+
+कमिला जत्रा कुरामा,
+
+धमिला जस्ता कुरामा,
+
+नजोखी तिनका वजनको भारी,
+
+नखोजी तिनमा कुनै शुचीता,
+
+भई सोल्लास नाच्ने जवानी लागेको दिन ,
+
+म फेरि तिमीलाई त्यही गुलाबी उमेरमा भेटौँला ।
+
+मलाई,
+
+यी बतासका आशुता पछ्याउनु छ,
+
+वात्या तुल्य भई पहाडसँग ठोक्किनु छ,
+
+ताराहरु टिपेर आकाशगंगामा अरु घामहरुलाई जिस्क्याउनु छ,
+
+कणसरी डुवेर शन सागरको काटमा
+
+मोतीसंग संघट भएको दिन,
+
+म फेरि तिमीलाई उही सान्द्र किनारमा भेटौँला ।
+
+मलाई ,
+
+चरीहरुको व्याकरणमा भाववाच्य चिन्न सिक्नु छ,
+
+द्रव्य बिना पाउने ती चीजहरु किन्न सिक्नु छ,
+
+रित्तो भएर सर्वाङ्ग भरिएको दिन,
+
+बटुलिएर सबैतिर छरिएको दिन,
+
+पातको कानबाट सुनिएका
+
+चीरबीर धुनको माधुरी बोकेर,
+
+म फेरि तिमीलाई तिम्रै शोर बजारमा भेटौँला ।
