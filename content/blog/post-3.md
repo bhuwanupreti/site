@@ -5,10 +5,8 @@ image: "/images/250871185_4328721103907577_6550135110699779563_n.jpg"
 author:
 - Admin
 categories:
-- lifestyle
-tags:
-- lifestyle
-- fashion
+- Poem
+tags: []
 description: This is meta description
 
 ---
