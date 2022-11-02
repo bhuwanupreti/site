@@ -5,7 +5,7 @@ image: "/images/urzednik-1140x704.jpg"
 author:
 - Bhuwan Upreti
 categories:
-- Article
+- Good Governance & Anti Corruption
 tags:
 - Economy
 - 'Corruption '
