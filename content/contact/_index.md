@@ -1,6 +1,6 @@
 ---
 title: Contact
-bg_image: images/2020-landscape-2.png
+bg_image: ''
 description: This is meta description
 
 ---
@@ -11,3 +11,5 @@ Freelance writer promoting Philanthropy Journalism in Nepal
 977-9851130239
 
 Kathmandu, Nepal
+
+![](/images/fb_img_1653893079662.jpg)
