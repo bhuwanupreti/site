@@ -11,7 +11,6 @@ tags:
 - 'Corruption '
 date: 2022-06-14T18:15:00+00:00
 image: "/images/ciaa-sketch-1900.jpg"
-draft: true
 
 ---
 In 1910 BS., the Muluki Ain was promulgated which was the first modern codified law in the legal history of Nepal. The first Rana Premier Junga Bahadur Rana codified the law in Nepal for the first time tried to introduce the rule of law in Nepal. This Code was made by the Kausal (Council) comprising Bhardars (Courtiers). The prime objective of this Code was to maintain uniformity in the administration of justice applying written legal rules.Necessary amendments and modifications were made during the Rana regime. The judicial reforms made by the Prime Minister Juddha Shamsher in 1997 BS separated the judiciary from the executive branch except at the higher level. Pradhan Nyayala became the highest court of the land but not the final court since its decisions could be revised by the Prime Minister who was considered the court of last resort under established procedures. Any case, decided by the Prime Minister, would be the end of litigation and the case could not be reopened.
