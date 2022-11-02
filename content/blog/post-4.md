@@ -1,18 +1,56 @@
 ---
-title: "From Signac to Matisse"
-date: 2020-03-14T15:40:24+06:00
-image : "images/2020-three-quarters-4.png"
-# author
-author : ["Admin"]
-# categories
-categories: ["tour"]
-tags: ["tour","visit"]
-# meta description
-description: "This is meta description"
-# save as draft
-draft: false
+title: Micro and macroeconomics activities of corruption
+date: 2021-06-22T09:40:24+00:00
+image: "/images/urzednik-1140x704.jpg"
+author:
+- Admin
+categories: []
+tags:
+- Economy
+- 'Corruption '
+description: This is meta description
+
 ---
+**C**orruption is a multi-dimensional and multi-faceted phenomena that exists in different levels in Nepal, from country’s market, day by day trade to high level policy making. Economic growth is only achieved if we combat corruption and open a free market with non intervention mechanism meanwhile that regulates and monitors market in right way. The policy makers should figure out the actual hidden factors that encouraging corruption in the country and act accordingly. Combating corruption is a collective approach. Therefore, the institutions of the government must collaborate with the citizens to combat the corruption.
 
-Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.
+Since much public corruption can be traced to government intervention in the economy, policies aimed at liberalization, stabilization, deregulation, and privatization can sharply reduce the opportunities for rent-seeking behavior and corruption. Where government regulations are pervasive, however, and government officials have discretion in applying them, individuals are often willing to offer bribes to officials to circumvent the rules and, sad to relate, officials are occasionally tempted to accept these bribes. Identifying such policy- related sources of corruption is obviously helpful in bringing it under control. The following sources have for some time been well known.
 
-Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.
+**Trade restrictions** are the prime example of a government-induced source of rents. If importing a certain good is subject to quantitative restriction (for example, only so many foreign automobiles can be imported each year), the necessary import licenses become very valuable and importers will consider bribing the officials who control their issue. More generally, protecting a home industry (such as plywood manufacturing) from foreign competition through tariffs creates a semi-monopoly for the local industry. Local manufacturers will lobby for the establishment and maintenance of these tariffs and some may be willing to corrupt influential politicians to keep the monopoly going. Studies have shown that a very open economy is significantly associated with lower corruption. In other words, countries tend to be less corrupt when their trade is relatively free of government restrictions that corrupt officials can abuse.
+
+**Government subsidies** can constitute a source of rents. Studies show corruption can thrive under industrial policies that allow poorly targeted subsidies to be appropriated by firms for which they are not intended. The more such subsidies are available to industries, the higher the corruption index.
+
+**Price controls**, whose purpose is to lower the price of some good below its market value (usually for social or political reasons), are also a source of rents and of ensuing rent-seeking behavior. Price controls create incentives for individuals or groups to bribe officials to maintain the flow of such goods or to acquire an unfair share at the below-market price.
+
+**Multiple exchange** rate practices and foreign exchange allocation schemes lead to rents. Some countries have several exchange rates--one for importers, one for tourists, one for investors, for example. Differentials among these rates can lead to attempts to obtain the most advantageous rate, although this rate might not apply to the intended use of the exchange. Multiple exchange rate systems are often associated with anti-competitive banking systems in which a key bank with government ties can make huge profits by arbitraging between markets. Some countries have little foreign currency and distribute what they have through various schemes, with varying degrees of transparency. If, for example, state-owned commercial banks ration scarce foreign exchange by allocating it according to priorities established by government officials, interested parties may be willing to bribe these officials to obtain more than their fair share.
+
+**Low wages** in the civil service relative to wages in the private sector are a source of low- level corruption. When civil service pay is too low, civil servants may be obliged to use their positions to collect bribes as a way of making ends meet, particularly when the expected cost of being caught is low. In addition to government regulations as an occasion for corruption, other reasons for corruption have been identified.
+
+**Natural resource endowments** (oil, gold, exotic lumber) constitute a textbook example of a source of rents, since they can typically be sold at a price that far exceeds their cost of extraction and their sale is usually subject to stringent government regulation, to which corrupt officials can turn a blind eye. Resource-rich economies may be more likely to be subject to extreme rent-seeking behavior than are resource-poor countries.
+
+**Sociological factors** may contribute to rent-seeking behavior. An index of ethno linguistic fractionalization (societal divisions along ethnic and linguistic lines) has been found to be correlated with corruption. Also, public officials are more likely to do favors for their relatives in societies where family ties are strong. Main determinants of corruption at micro and macro levels are economic growth, openness to trade, inflation and Human Development Index.
+
+**Economic Growth**: It is assumed that there is a relationship between the level of economic growth or economic development and the level of corruption (Husted, 1999, p. 340). Lack of economic resources can emerge as a fundamental factor leads to corruption. Corruption is a phenomenon that existing in all countries. However, it can emerge more rapidly in low income countries than in high-income countries.
+
+**Inflation:** One of the factors causing corruption is inflation. Since, inflation reduces the level of real wages; it negatively affects the purchasing power of people. Although the purchasing power decreases, the basic needs must be met first. If not, people might apply to any kind of illegal methods such as fraud, bribery, embezzlement for needs. Therefore, these socio-economic deteriorations lead the level of corruption to increase in a country. A lot of people believe that inflation can be caused to moral hazard. And then it can offer opportunity for illegal and unethical behaviour such as fraud, deception, embezzlement. Moreover, any informational problems caused by inflation can lead to more corruption. Because, high and variable inflation is assumed to increase uncertainty about prices and, therefore, cost of accounting the agent’s behaviour.It is said that openness to trade is also important determinant of corruption. There is a strand of literature that investigates the relationship between openness and levels of domestic corruption. There are a number of scholars that recognize the positive relationship between the openness of a country to international trade and lower levels of domestic corruption (Soudis, 2009).
+
+**Human Development Index (HDI):**
+
+HDI is regarded as one of the main determinants of corruption. When human development index increases, corruption decreases and vice versa. Nepal has shown no drastic change to the Corruption Perceptions Index 2021 of Transparency International, it has made some genuine institutional efforts to curb public sector corruption.
+
+The following are the national efforts made by the Government of Nepal to Control Corruption:
+
+The Commission for the Investigation of Authority (CIAA) is an apex constitutional body for corruption control for the Government of Nepal. The Constitution of Nepal 2072 has empowered CIAA to investigate and probe cases against the persons holding public office and their associates who are indulged in the abuse of authority by way of corruption. National Vigilance Centre (NVC) is another anti-corruption body of the Government of Nepal. It was formed according to Anti-Corruption Act, 2059 B.S. in order to reduce the corrupt activities in effective manner and to build a corruption free society. It is a watchdog and so it plays a preventive and vigilant role in order to ensure good governance by creating far economic discipline, moral ethics and transparency. Department of Money Laundering Investigation (DMLI) was established by the Government of Nepal on July 15, 2011 to fight money laundering, terrorist financing and any forms of illegal earnings including the property earned by corruption. As its commitment to fighting corruption, Nepal has ratified the United Nations Convention against Corruption (UNCAC) on 31 March 2011. UNCAC is the first global legally binding international anti-corruption instrument.
+
+Transparency International, Nepal Chapter, is a civil society organization working in Nepal as a catalyst in the fight against corruption. It promotes anticorruption movement in Nepal through advocacy of transparency, integrity and accountability in governance, and mobilization and empowerment of people.
+
+No study is undertaken to estimate the magnitude micro and macro levels of corruption in Nepal. Some data on corruption exists but it is also not sufficient, systematic and authentic to estimate the actual size of the corruption. National and international experiences indicate that it has been rampant in the country. The study concludes that there is an urgent need to conduct a nationwide survey to estimate the magnitude of corruption in Nepal so that it could be accommodated with the white data, which in turn, would facilitate the policymakers in formulating proper policies for the country. Although the incidence of poverty is significant, no attempt has been made to accommodate the corruption in analysing the poverty estimation. It is argued to modify the economic growth rate, saving and investment, poverty incidence data by incorporating the corruption. Nepal is ranked 117 out of 175 nations in the Corruption Perceptions Index (CPI) (TI, 2021). Corruption is an issue in public debates and everyday conversation in many countries. To understand and fight against corruption, the legal definition of corruption is too narrow and only concerns with legal procedure, legal evidences and ignores the people’s own assessment of courses of action. If we only give priority to legally sanctioned sphere and ignore socially sanctioned sphere, it is very difficult to fight against corruption in Nepal. This is related to democratization process. Economic and political competition, transparency and accountability, coupled with democratic principles of checks and balance, are the necessary instruments to restrict corruption and power abuse. Civil society should hate, boycott culturally and socially corrupt people for introducing people oriented good government which should be transparent and accountable.
+
+References
+
+_Sarah Morcillo. Corruption and development : a microeconomic analysis. Economics and Finance. Université Paris sciences et lettres, 2019. English. ffNNT : 2019PSLED059ff. fftel- 03222273f_
+
+_Engaging in Corruption: The Influence of Cultural Values and Contagion Effects at the Micro_
+
+_Level IZA DP No. 7685 October 2013 Wang-Sheng Lee Cahit Guven_
+
+_CORRUPTION IN NEPAL: AN ANALYTICAL STUDY,R.K. Shah_
