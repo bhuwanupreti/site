@@ -3,8 +3,9 @@ title: Micro and macroeconomics activities of corruption
 date: 2021-06-22T09:40:24+00:00
 image: "/images/urzednik-1140x704.jpg"
 author:
-- Admin
-categories: []
+- Bhuwan Upreti
+categories:
+- Article
 tags:
 - Economy
 - 'Corruption '
