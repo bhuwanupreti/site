@@ -1,7 +1,66 @@
 ---
-title: "Blog"
-# meta description
-description: "This is meta description"
-# save as draft
-draft: false
+title: Botched track undermining the courts’ credibility as corruption fighter.
+description: This is meta description
+categories:
+- 'Corruption '
+- 'Anti Corruption '
+- 'Good Governance '
+tags:
+- 'Court '
+- 'Governance '
+- 'Corruption '
+date: 2022-06-14T18:15:00+00:00
+image: "/images/ciaa-sketch-1900.jpg"
+
 ---
+In 1910 BS., the Muluki Ain was promulgated which was the first modern codified law in the legal history of Nepal. The first Rana Premier Junga Bahadur Rana codified the law in Nepal for the first time tried to introduce the rule of law in Nepal. This Code was made by the Kausal (Council) comprising Bhardars (Courtiers). The prime objective of this Code was to maintain uniformity in the administration of justice applying written legal rules.Necessary amendments and modifications were made during the Rana regime. The judicial reforms made by the Prime Minister Juddha Shamsher in 1997 BS separated the judiciary from the executive branch except at the higher level. Pradhan Nyayala became the highest court of the land but not the final court since its decisions could be revised by the Prime Minister who was considered the court of last resort under established procedures. Any case, decided by the Prime Minister, would be the end of litigation and the case could not be reopened.
+
+Thus, finality of the judgment was ensured. During this time,King Tribhuvan enacted laws making the judiciary independent and the Pradhan Nayalaya court as the highest and the final court of the land, which he since revised commanding that the highest court is to revise its own decisions according to law as and when necessary under established procedures. Various law-making bodies and law-administering agencies were created at different levels with identified powers under the Constitution and the laws. The list includes the then Rastriya Panchayat as the Central legislature, the Mantri Parishad as the central executive and Sarbocha Adlat as the Supreme Court.
+
+After 2047 BS, the multi-party democracy in Nepal was restored and some major changes were introduced in the Nepalese legal system. So far there were seven constitutions in the history of Nepal.The Constitution provides three tiers of Courts, which include the Supreme Court, the High Court (Court of Appeal) and the District Courts. In 2059BS,Special court act was enacted. The Constitution provides for establishing special types of courts or tribunals under the judicial control of the Supreme Court to deal with special types of cases, which include four Revenue Tribunals, one Administrative Court, one Labor Court and one special court.
+
+Nepal is considered a country where status of good governance is not satisfactory. The criminal justice system has lots of flaws and it is not sufficient enough to deter crime in the country. Many corrupt activities are out of the purview of the judicial system.Under the judicial control of the Supreme court, the special court act,2002 has made provision for the establishment of Special Court in Nepal. The Act number 2 of special court act states that “whereas it is expedient to make a timely provision with regard to the constitution, power and procedure of special court in order to accomplish the trial and decisions of the special types of cases in an expeditious, prompt and effective manner. Nepal Constitution’s article 126 and other articles have set provisions which assert the judiciary of Nepal to be independent. The heading has been extended from article 126 to 156.
+
+Article 126 of the constitution provides courts to exercise powers relating to Justice ,which states that ‘ Powers relating to justice in Nepal shall be exercised by courts and other judicial bodies in accordance with this constitution, other laws and the recognized principles of justice. All shall abide by the orders or decisions made in the course of trial of lawsuits by the courts. Similarly,article 152 provides some provisions about specialized courts,judicial bodies or tribunals may be formed to try and settle specific types of tribunals other than those mentioned in Article 127,as provided for in the federal law.
+
+**What is in the act ?**
+
+The government of Nepal may constitute special court,having the judge in required number in order to accomplish trial and decision of special types of cases in an expeditious,prompt and effective manner, by publishing a notice in Nepal Gazzette in consultation with Judicial Council.
+
+The Government of Nepal shall designate the chairperson and member of the Special Court constituted in accordance with Sub-section (1), in consultation with judicial council, from amongst the judges of appellate court. Government of Nepal may also specify the location of a bench to remain in other place by publishing a notice in Nepal Gazette for a specified period mentioned therein. The Government of Nepal may increase or decrease the cases offered to the Special Court constituted in accordance with Section 3 by publishing a notice in Nepal Gazette. The salary and other facilities of chairperson and member of Special Court shall be as prescribed by Government of Nepal.
+
+Objective of Special Court is to deliver speedy and effective justice in special types of cases. Government of Nepal, in recommendation of Judicial Council, appoints members of the Special Court. Special court exercises jurisdiction over the cases related to Corruption, Money Laundering and Treason against the State. Corruption cases are filed in the Special Court by the CIAA. By law, the court shall deliver its verdict within six months from the date of registration.
+
+**Is the current practice justifying or is it just flying ?**
+
+The trial and decision of the special types of cases shall be made by the Special Court. The jurisdiction of Special Court shall be according to Special Court act,2059 section 6.The exercise of the jurisdiction of Special Court shall be made by all members present in the bench collectively. Provided that, a member attending in the bench may conduct other hearing except for a hearing regarding the detention (pretrial) of an accused and two members attending bench may conduct a hearing regarding the detention (pretrial) and decision of a case.
+
+The Special Court can Summon the other persons or evidence relevant with a case as deemed appropriate apart from the witness of the plaintiff and defendant, it also can record the statement of defendant or witness failing to attend within the dates given by arresting through issuing warrant.Moreover, it Conducts the trial of the case by giving a party due date of presence or by requiring him/her to be present as and when necessary without giving a due date. The court may demand the security or guarantee keeping in view the amount of loss or damage or amount illegally accepted by him/her and the imprisonment or fine to be inflicted to him/her in case it is not deemed to have a trial of the case by putting an offender in the custody from the evidence so collected, notwithstanding anything contained in the prevailing law, conducting a trial of the case by putting the offender in custody in case there is an adequate and reasonable cause to have a trial of the case by putting one in custody, and may accept the security or guarantee taken by the agency for investigation in course of investigation extent it covers.The SC can hold or freeze asset and passport of the offender for further investigation process. Similarly,it Can file additional charge-sheet notwithstanding anything contained in the prevailing law, in case other additional relevant evidence of a case are found after having a charge-sheet filed against any offender in the Special Court, the Government Attorney may submit an application in the Special Court for an approval describing the reason to make additional claim in addition to the previous claim or to carry out additional investigation over the offender against whom case has already been filed by continuing the past investigation carried or to make an additional claim by filling a case against other offender as well.
+
+**Procedure regarding the Summon**
+
+Summon time is set for 15 days if the person is within Nepal, 30 days if the person is out of the country. Summon can be issued in the name of the office or representative if the offender owns any in Nepal. The Summon can be issued through telex telefax ,any recordable means of communications, in which journey period is excluded. The official deputed for summon shall have to accomplish the duty within 2 days in which journey period is excluded. If failed to accomplish the above procedures, then a public notice shall be published at least two times in national-level newspaper by giving a time of thirty days to be present in the Special Court by mentioning a short description of a case filed in it. It is therefore can be considered as an issuance of summon to that person. Besides, a lapsed time may be sustained for a period of up to Fifteen days in maximum if such circumstance is proved to be reasonable. For the matters in relation to the trial and decision of a case, the Special Court may exercise the power and procedure according to its act.
+
+**Investigation and Prosecution**
+
+After registration of case the special court takes the statement of the accused if he or she is produced in the court by the prosecutor, and after hearing from both sides takes a decision on whether the accused should be kept in custody during adjudication or not. The court may ask for a guarantee if it decides not to keep the suspect in judicial custody. The court issues summons of 15 days, expect for the period of journey, to the accused who is not produced in the court by prosecutor or who could not be contacted during the investigation. If the court cannot contact the accused by any reason, the court publishes a notice in a national newspaper to be present in the court within 30 days. When all the parties are notified about the case against them or they are present in the court, the court fixes a date for examination of witness and submission of other proofs. During the date of the final hearing all the parties of the case plead in the court. Then the court takes decision on whether the accused is guilty or not. There are three members in the court. A single-judge bench can issue an order in procedural matters, but cannot deliner final verdict. A two-judge bench can issue orders in procedural matters as well as deliver final verdicts. For final verdicts a unanimous vote is necessary. A three-judge bench can issue a final verdict with unanimous or majority vote.
+
+**Challenges of Special Court**
+
+Intensively multiplying workload : 657 registered cases left untreated on Fiscal year 077/078, of which 531 cases are pending since a year and remained 162 cases are waiting verdicts since 2 years.
+
+Lack of proper collaboration with foreign institutions_:_ In most of the Cases related to forged and fake certificates the validity of the documents should be verified from Indian universities which takes a long to response.
+
+No preferential track: The Court is crowded with the cases. There is no priority for new registered cases. Neither there is special rule for fast track procedure on disposing these cases.
+
+Time required by law: Court cannot dispose a case before certain procedure is fulfilled. Time is required to fulfill the procedure, e.g. time for giving notice to defendants, time for calling witnesses and their examination etc.
+
+Ambiguity in law: Ambiguity in law or lack of clear precedent is also hampering quick disposal of cases.
+
+Reluctant judges: Sometimes judges seem reluctant on deciding corruption cases in which political persons are involved.
+
+Nepal established the Special Court in 2009 under section 101 (2) and section 3 of the Special Court Act-2059 to hear corruption cases filed by the CIAA under State Cases (Crime and Punishment) Act-2046, relating to cases to be prosecuted and defended by the government of Nepal, and the Money Laundering Control Act-2064 (2007). 18 Immediately after its establishment however, the Special Court came under fire. The Special Court acquitted a string of high profile political leaders, government officers and high profile police officers. The unwillingness of the government to enforce the decisions made by the courts has fostered impunity and encouraged criminal activity. A weak governance system, the absence of the rule of law and respect for human rights, inaction of the anti-graft agencies and political apathy are some of the major causes of corruption in Nepal. Nepal can only prosper if it rids itself of corruption, nepotism and foul political power games.
+
+The Special court has its procedure delayed for the most cases. In every case a time-frame should be fixed and work accordingly. Judges should be made responsible for not deciding cases within the time line. Similarly, time should be fixed for lawyers by the bench for pleading. The cases which are pending in the Special Court should be decided immediately. Effective system of protecting witnesses should be developed, so that they don’t become hostile. All the people who involve in investigation, prosecution and adjudication of corruption cases should be provided quality training.
+
+Though there is a provision of Judicial council in the constitution to make recommendation or give advice for appointment ,transfer and dismissal of judges and other matters relating to the administration of justice, it is not found to be considered accordingly. The political leaders and parties are influencing the whole process one way or another. A result oriented good collaboration with the CIAA and other constitutional bodies and agencies is needed.
