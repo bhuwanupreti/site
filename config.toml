@@ -43,7 +43,7 @@ description = "This is meta description"
 heading = "Freelance writer promoting Philanthropy Journalism in Nepal"
 image = "images/homepagephoto1.jpg"
 [params.blog]
-heading = "We need to tell each other our stories. We need to show that everyone — our neighbors, our families, our community leaders — everyone we know is touched by corruption."
+subheading = "We need to tell each other our stories. We need to show that everyone — our neighbors, our families, our community leaders — everyone we know is touched by corruption."
 [params.call_to_action]
 button_label = "Connect"
 button_url = "contact"
