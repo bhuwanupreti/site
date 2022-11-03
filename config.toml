@@ -38,7 +38,7 @@ weight = 5
 home = ["HTML", "RSS", "JSON"]
 [params]
 author = "Themefisher"
-description = "This is meta description"
+description = "Bhuwan Upreti"
 [params.banner]
 heading = "Freelance writer promoting Philanthropy Journalism in Nepal"
 image = "images/homepagephoto1.jpg"
@@ -50,13 +50,11 @@ button_url = "contact"
 content = "Let's be friends."
 enable = true
 title = "Get in touch"
-
 [params.footer]
 address = "Kathmandu, Nepal"
 content = "My safe place. Theme by [themefisher](https://themefisher.com)"
 copyright = "Content Copyright &copy; Bhuwan Upreti"
 title = "About This Site"
-
 [params.gallery]
 enable = true
 [[params.gallery.gallery_item]]
