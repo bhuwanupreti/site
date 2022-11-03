@@ -44,7 +44,7 @@ description = "Blog Site"
 heading = "Freelance writer promoting Philanthropy Journalism in Nepal"
 image = "images/homepagephoto1.jpg"
 [params.blog]
-heading = "Your ignorance on corruption is their power. Speak Up!"
+heading = "Your ignorance of corruption is their power. Speak Up!"
 
 [params.call_to_action]
 button_label = "Connect"
@@ -65,7 +65,7 @@ enable = true
 [[params.gallery.gallery_item]]
 image = "images/Bottomimage1.jpeg"
 [[params.gallery.gallery_item]]
-image = "images/Bottomimage1.jpeg"
+image = "images/Bottomimage2.jpeg"
 
 [params.social]
 email = "upretybhuwan99@gmail.com"
