@@ -10,7 +10,6 @@ tags:
 - Economy
 - 'Corruption '
 description: This is meta description
-draft: true
 
 ---
 **C**orruption is a multi-dimensional and multi-faceted phenomena that exists in different levels in Nepal, from country’s market, day by day trade to high level policy making. Economic growth is only achieved if we combat corruption and open a free market with non intervention mechanism meanwhile that regulates and monitors market in right way. The policy makers should figure out the actual hidden factors that encouraging corruption in the country and act accordingly. Combating corruption is a collective approach. Therefore, the institutions of the government must collaborate with the citizens to combat the corruption.
