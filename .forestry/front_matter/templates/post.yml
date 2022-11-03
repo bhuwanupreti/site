@@ -8,11 +8,6 @@ fields:
 - type: datetime
   name: date
   label: date
-- name: thumbnail
-  type: file
-  config:
-    maxSize: 
-  label: thumbnail
 - type: file
   name: image
   label: image
