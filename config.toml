@@ -52,17 +52,21 @@ button_url = "contact"
 content = "Let's be friends."
 enable = true
 title = "Get in touch"
+
 [params.footer]
-address = "Kathmandu, Nepal"
+address = "Kathmandu -30, Rudramati Marga, Gyaneshwore 44600"
+hours = "Sunday–Friday: 11:00AM–3:00PM"
 content = "My safe place. Theme by [themefisher](https://themefisher.com)"
 copyright = "Content Copyright &copy; Bhuwan Upreti"
 title = "About This Site"
+
 [params.gallery]
 enable = true
 [[params.gallery.gallery_item]]
 image = "images/Bottomimage1.jpeg"
 [[params.gallery.gallery_item]]
 image = "images/Bottomimage1.jpeg"
+
 [params.social]
 email = "upretybhuwan99@gmail.com"
 facebook = "https://www.facebook.com/bhuwanrajuprety"
