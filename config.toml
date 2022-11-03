@@ -54,7 +54,7 @@ enable = true
 title = "Get in touch"
 
 [params.footer]
-address = "Kathmandu -30, Rudramati Marga, Gyaneshwore 44600"
+address = "Kathmandu-30, Rudramati Marga, Gyaneshwore 44600"
 hours = "Sunday–Friday: 11:00AM–3:00PM"
 content = "My safe place. Theme by [themefisher](https://themefisher.com)"
 copyright = "Content Copyright &copy; Bhuwan Upreti"
