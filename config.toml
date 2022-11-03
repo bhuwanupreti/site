@@ -30,50 +30,40 @@ weight = 3
 URL = "contact"
 name = "Contact"
 weight = 4
-[[menu.main]]
-URL = "sample-page"
-name = "Sample Page"
-weight = 5
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
 author = "Bhuwan Upreti"
 description = "Blog Site"
-
 [params.banner]
 heading = "Freelance writer promoting Philanthropy Journalism in Nepal"
 image = "images/homepagephoto1.jpg"
 [params.blog]
 heading = "Your ignorance of corruption is their power. Speak Up!"
-
 [params.call_to_action]
 button_label = "Connect"
 button_url = "contact"
 content = "What's on your mind today? Let's talk about it. "
 enable = true
 title = "Get in touch"
-
 [params.footer]
 address = "Kathmandu-30, Rudramati Marga, Gyaneshwore 44600"
-hours = "Sunday–Friday: 11:00AM–3:00PM"
 content = "My safe place. Theme by [themefisher](https://themefisher.com)"
 copyright = "Content Copyright &copy; Bhuwan Upreti"
+hours = "Sunday–Friday: 11:00AM–3:00PM"
 title = "About This Site"
-
 [params.gallery]
 enable = true
 [[params.gallery.gallery_item]]
 image = "images/Bottomimage1.jpeg"
 [[params.gallery.gallery_item]]
 image = "images/Bottomimage2.jpeg"
-
 [params.social]
 email = "upretybhuwan99@gmail.com"
 facebook = "https://www.facebook.com/bhuwanrajuprety"
 instagram = "https://www.instagram.com/bhuwan_upreti/"
 linkedin = "https://www.linkedin.com/in/bhuwanupreti"
 twitter = "https://twitter.com/bhuwanwrites"
-
 [taxonomies]
 author = "author"
 category = "categories"
