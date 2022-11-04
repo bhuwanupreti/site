@@ -1,5 +1,5 @@
 ---
-title: Botched track undermining the courts’ credibility as corruption fighter.
+title: Botched track undermining the courts’ credibility as corruption fighter
 date: 2022-06-15T15:25:00+05:45
 image: "/images/ciaa-sketch-1900.jpg"
 author:
