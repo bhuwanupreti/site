@@ -1,5 +1,5 @@
 ---
-title: Botched track undermining the courts’ credibility as corruption fighter.
+title: Botched track undermining the courts’ credibility as corruption fighter
 description: This is meta description
 categories:
 - 'Corruption '
